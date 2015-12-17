@@ -1,7 +1,10 @@
 package elevator;
 
 import java.util.ArrayList;
+
 import javax.swing.text.Utilities;
+
+import Floor.FloorManager;
 
 
 public class ElevatorImpl implements elevator {
